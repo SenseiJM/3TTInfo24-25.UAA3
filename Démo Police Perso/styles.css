@@ -1,0 +1,8 @@
+@font-face {
+    font-family: maPolice;
+    src: url(fonts/JosefinSans-VariableFont_wght.ttf);
+}
+
+body {
+    font-family: maPolice;
+}
